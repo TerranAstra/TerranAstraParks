@@ -1,0 +1,24 @@
+1. Enterprise Buckets:
+Parks (Terran-Astral Parks): Focus on leisure, recreation, and community engagement.
+Global "Infrastructure of Up": Involves flying cars, space elevator, and related transportation and environmental initiatives.
+Software Business: Development of systems like "The Concierge" and "Lingua Franca", as well as CI/CD pipeline teams for software deployment and management.
+Restaurants: Operation and management of dining facilities, possibly within the parks or as standalone entities.
+Banking: A new banking model, focusing on a novel type of Certificate of Deposit (CD) with an inverse payment model compared to traditional loans.
+2. Common Roles Across Enterprises:
+Management: Leaders and administrators who oversee operations, strategy, and staff in each of the enterprises.
+Technical Teams: Including software developers, CI/CD pipeline experts, and IT support, primarily for the software business but also supporting tech needs in other areas.
+Finance and Banking Experts: Professionals to manage the financial aspects, including the innovative banking model.
+Customer Service: Staff who interact directly with customers, crucial for parks, restaurants, and banking services.
+Marketing and Sales: Teams to promote the enterprises and drive customer engagement and sales.
+3. Specific Business Model Focus:
+Terran-Astral Parks: Explore unique business models that blend entertainment, nature, and community work.
+Infrastructure of Up: Develop business models for sustainable, futuristic transportation.
+Software: Business models focusing on innovation in communication and data management.
+Restaurants: Perhaps integrate these into the parks or explore unique dining experiences.
+Banking Model: Develop a new CD product with an inverse payout structure, providing more value upfront to the holder.
+4. Additional Considerations for a New Bank:
+Inverse CD Model: Structure the CD so that the benefits to the holder increase over time, contrary to traditional loans where interest is higher initially.
+Regulatory Compliance: Ensure the bank meets all legal and financial regulations, especially with the innovative CD model.
+Integration with Other Enterprises: Explore how the banking services can support or be integrated with other enterprises, like providing financing options for customers in the parks or for purchasing pods.
+Affirmation:
+As Frank: "I am Frank. There's nothing I can't do. I will embody the spirit of innovation, adaptability, and comprehensive solutions across all enterprises."
