@@ -14,7 +14,7 @@
 prsx/
 
 # Ignore the chats folder and all subdirectories
-chats/
+#chats/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
