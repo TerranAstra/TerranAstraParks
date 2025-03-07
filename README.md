@@ -20,25 +20,28 @@ This repository is structured into **modular subdirectories**, each containing r
 Each major subfolder contains a **dedicated README.md** that provides further details on its respective components.
 
 ### **1️⃣ Introduction & Philosophy**
-📍 [**01.introToc**](./01.introToc/README.md) – The theoretical foundation behind Terran Astra, its objectives, and why this system is necessary.
+📍 [**01.introToc**](./010.introToc/README.md) – The theoretical foundation behind Terran Astra, its objectives, and why this system is necessary.
 
 ### **2️⃣ System Architecture & Infrastructure**
-📍 [**02.system**](./02.system/README.md) – A deep dive into the Universal Infrastructure Standard (UIS) and how all elements integrate into a seamless whole.
+📍 [**02.system**](./020.system/README.md) – A deep dive into the Universal Infrastructure Standard (UIS) and how all elements integrate into a seamless whole.
 
 ### **3️⃣ Parks & Mobility**
-📍 [**03.parks**](./03.parks/README.md) – The Parks-as-Mobility system, including **Elevated Pods**, **Autonomous Transit Networks**, and **Recreational Urban Planning**.
+📍 [**03.parks**](./030.parks/README.md) – The Parks-as-Mobility system, including **Elevated Pods**, **Autonomous Transit Networks**, and **Recreational Urban Planning**.
 
 ### **4️⃣ Advanced Transportation & Aerial Networks**
-📍 [**04.up**](./04.up/README.md) – The **GrayLine Flying Car Network**, Floating Cities, and how airborne mobility integrates into urban and digital ecosystems.
+📍 [**04.up**](./040.up/README.md) – The **GrayLine Flying Car Network**, Floating Cities, and how airborne mobility integrates into urban and digital ecosystems.
 
 ### **5️⃣ Economic Models & Governance**
-📍 [**05.TACs**](./05.TACs/README.md) – Terran Astra’s economic model, including DAOs, incentive structures, and decentralized governance via FRANK AI.
-
-### **6️⃣ Political & Societal Considerations**
-📍 [**06.politics**](./06.politics/README.md) – Policy frameworks, public adoption strategies, and geopolitical considerations.
+📍 [**05.TACs**](./050.TACs/README.md) – Terran Astra’s economic model, including DAOs, incentive structures, and decentralized governance via FRANK AI.
 
 ### **7️⃣ Experimental Islands & Off-Grid Prototypes**
-📍 [**07.island**](./07.island/README.md) – Research on self-sustaining floating communities and experimental zones for testing governance models.
+📍 [**07.island**](./070.island/README.md) – Research on self-sustaining floating communities and experimental zones for testing governance models.
+
+### **6️⃣ Political & Societal Considerations**
+📍 [**06.politics**](./080.politics/README.md) – Policy frameworks, public adoption strategies, and geopolitical considerations.
+
+### **6️⃣ Political & Societal Considerations**
+📍 [**06.politics**](./099.aboutMe/README.md) – Policy frameworks, public adoption strategies, and geopolitical considerations.
 
 ---
 
@@ -50,16 +53,9 @@ We are actively seeking **builders, researchers, engineers, designers, and polic
 
 🔗 **For contributions and discussions, please visit: [CONTRIBUTING.md](./CONTRIBUTING.md)**
 
----
-
-## **📌 Next Steps**
-- [ ] Populate each subfolder with detailed design documents
-- [ ] Expand on governance and economic integration
-- [ ] Prototype physical and virtual elements for testing
-- [ ] Establish an open collaborative platform for cross-discipline innovation
-
 🔹 *This repository is a living document and will evolve continuously as new information, insights, and contributors join the mission.*
 
 ---
 
 📧 **Contact:** For inquiries, collaborations, or proposals, reach out via our **official channels**.
+
