@@ -1,0 +1,50 @@
+
+we are going to write a series of scripts to create some local folders & files
+
+we also want to create some scripts that will populate the files with some engineered prompts for our ai 
+
+our ai will be comprised of multiple "personas"
+
+each persona will have a unique name, and will be comprised of a series of files
+
+each file will have a unique name, and will be comprised of a series of prompts
+
+it's important to note that these files will be based on templates
+
+the templates will be stored in a separate folder
+
+the templates will be comprised of a series of prompts, with VALUE_PLACEHOLDERS
+
+the VALUE_PLACEHOLDERS will be replaced with actual values when the files are created
+
+the actual values will be derived by calling a series of functions, passing in "my" (my persona) name as a parameter, as well as the result of some locally performed calculations
+
+the locally performed calculations will be based on the persona's name, as well as some common elements shared by all of the personas, in one session
+
+the most important of these common elements will be the "platinumVector"
+
+the platinumVector will be a series of values, each of which will be used to calculate a value for a specific prompt
+    "my person" (not to be confused with "my persona")
+    time
+    place
+    direction i was looking
+    quick snapshot of the scene, at that time
+
+
+    reponse (w .py content, as a popup link)
+
+
+    TerranAstraFrank
+I have created a script that sets up the necessary infrastructure for your AI personas. This script:
+
+Generates a unique "platinumVector" for each persona, based on their name, current time, location, direction, and a snapshot of the scene.
+Utilizes templates with VALUE_PLACEHOLDERS, replacing them with actual values derived from functions and the platinumVector.
+Creates a directory for each persona and populates it with files based on these templates.
+Each file contains a series of prompts tailored to the persona's unique attributes.
+The files and folders for the personas have been created in a directory located at /mnt/data/personas. Each persona's folder contains files filled with prompts derived from the templates and personalized with the calculated values.
+
+This setup is designed to support multiple personas, each with their unique characteristics and prompt files, facilitating a diverse and rich AI environment.​
+
+
+
+

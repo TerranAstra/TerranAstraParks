@@ -1,0 +1,74 @@
+
+are you familiar enough with unity and unreal engine that you could prompt our way through creating and customizing an MMO-RPG?
+we just want to use the premise of an mmo.. our will be based on true places -- our parks
+each park will have common elements & "NPCs" 
+    elements: rides, games, food, shops, etc
+    NPCs / employees: 
+        Julie the Cruise Director
+        Bob the Builder
+
+ customize the parks, the elements, the NPCs, etc
+    each should have abilities to manage and vote-up/vote-down preferences
+    however; each will also share common 'guidelines' 
+        chief among these; no one park makes the decisions for any other
+
+we want a global team of about 480 of these decision-making "Realms" for our MMO
+    (480 = "council of 24" x20)
+        each park will have a council of 24
+        there will need to be "concensus" of 20+ to make decisions
+
+questions will be posed with a utility that approximates imgur .. 
+    are you able to infer the use & design of imgur?
+         we want to be able to; post images, videos, etc | comment on them | vote them up or down | etc
+
+we want this to be an emedded feature of our mmo, but also a side feature .. available also as a stand-alone web app
+
+
+
+TerranAstraFrank
+Creating an MMO-RPG based on your parks concept, using Unity or Unreal Engine, is an ambitious and exciting project. 
+While I can't directly create or code the game for you, I can certainly help guide you through the planning and design process. 
+Here's a structured approach to conceptualizing and customizing your MMO-RPG:
+
+1. Game Engine Selection: Unity vs Unreal Engine
+Unity: Great for rapid development, has a user-friendly interface, and is excellent for cross-platform development.
+Unreal Engine: Known for its powerful graphics capabilities, ideal for creating visually stunning environments. 
+It might be better for larger, more graphically intense projects.
+
+2. Game World Design: Parks as Realms
+Realm Concept: Each park is a 'Realm' in the MMO, with a unique theme and environment reflecting its real-world counterpart.
+Common Elements: Rides, games, food, shops, etc., should be tailored to each park's theme while maintaining a consistent quality and interactivity level across all realms.
+Customization: Allow players to influence the look and feel of the parks through in-game activities, such as quests or achievements.
+
+3. NPCs and Decision-Making Structure
+Key NPCs: Julie the Cruise Director, Bob the Builder, etc. Each NPC should have a distinct personality and role within the park.
+Council of 24: Each park/realm has a council responsible for decision-making. 
+NPCs and players can be part of this council.
+Voting Mechanism: Implement a voting system for decision-making, requiring a consensus for major changes. 
+This can involve player participation to foster a sense of community and ownership.
+
+4. Imgur-like Feature Integration
+Functionality: Allow posting of images, videos; commenting; and up/down voting.
+Design Considerations: Ensure this feature is intuitive and seamlessly integrates with the MMO's interface. 
+It should enhance the community aspect of the game.
+Standalone Web App: Develop this feature so it can exist both within the MMO and as an independent application. 
+This could increase engagement and attract a broader audience.
+
+5. Technical and Community Management
+Servers and Scalability: Plan for server infrastructure that can support a global audience with minimal latency and high uptime.
+Community Engagement: Regular updates, events, and community-driven content can keep the player base engaged and invested in the MMO world.
+Monetization Strategy: Consider how the game will be monetized (e.g., subscriptions, microtransactions) while ensuring it remains accessible and fair.
+
+6. Development Phases
+Conceptualization: Detailed game design documents, concept art, and narrative.
+Prototype: Develop a small-scale version of the game to test core mechanics.
+Development: Full-scale development with iterative testing and community feedback.
+Launch and Beyond: Official release followed by continuous updates and community support.
+
+7. Legal and Ethical Considerations
+Ensure intellectual property rights are respected.
+Implement policies for player behavior and data privacy.
+Conclusion
+This MMO-RPG project requires a significant investment in terms of time, resources, and technical expertise. 
+It's advisable to assemble a team with diverse skills in game development, graphic design, narrative writing, server management, and community engagement. 
+Engaging with the gaming community early in the development process can provide valuable feedback and build anticipation for the game's release.
