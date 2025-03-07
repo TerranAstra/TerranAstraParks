@@ -1,0 +1,118 @@
+
+we are going to provision an entire enterprise environment, including the
+- Active Directory
+- SQL Server
+- Exchange Server
+- web server(s)
+- file server(s)
+- docker hosts & container registry
+- kubernetes cluster
+
+## Prerequisites
+
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html)
+- [Packer](https://www.packer.io/downloads.html)
+- [Terraform](https://www.terraform.io/downloads.html)
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+
+## Setup
+
+### Azure
+
+1. Create a new resource group in Azure
+2. Create a new service principal in Azure
+3. Create a new storage account in Azure
+4. Create a new container in the storage account
+5. Create a new key vault in Azure
+6. Create a new key in the key vault
+7. Create a new secret in the key vault
+
+### Ansible
+
+1. Create a new ssh key pair
+2. Add the public key to the authorized_keys file on the Azure VMs
+
+### Terraform
+
+1. Create a new ssh key pair
+2. Add the public key to the authorized_keys file on the Azure VMs
+3. Create a new terraform.tfvars file
+4. Create a new backend.tf file
+
+### Packer
+
+1. Create a new ssh key pair
+2. Add the public key to the authorized_keys file on the Azure VMs
+3. Create a new packer.json file
+
+### Vagrant
+
+1. Create a new ssh key pair
+
+## Usage
+
+### Packer
+
+1. Build the packer image
+
+```bash
+packer build packer.json
+```
+
+### Terraform
+
+1. Initialize terraform
+
+```bash
+
+terraform init
+``` 
+
+2. Plan terraform
+
+```bash
+terraform plan
+```
+
+3. Apply terraform
+
+```bash
+terraform apply
+```
+
+### Vagrant
+
+1. Start the vagrant environment
+
+```bash
+vagrant up
+```
+
+2. Provision the vagrant environment
+
+```bash
+vagrant provision
+```
+
+3. Destroy the vagrant environment
+
+```bash
+vagrant destroy
+```
+
+## References
+
+- [Packer](https://www.packer.io/docs/builders/azure.html)
+
+- [Terraform](https://www.terraform.io/docs/providers/azurerm/r/virtual_machine.html)
+
+- [Vagrant](https://www.vagrantup.com/docs/providers/azure/usage.html)
+
+- [Ansible](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
+
+- [Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/terraform-install-configure)
+
+
+
