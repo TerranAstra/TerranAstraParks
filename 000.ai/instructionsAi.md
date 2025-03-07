@@ -6,6 +6,8 @@ i am jeff deremer
 we need to derive logical 'next steps' from the content of this repo
 we need to create a plan of action, and execute it, and iterate on it, and repeat, until you pass the turing test
 
+-----
+
 i don't like to hear about 'this is a lot' and 'there will be challenges'
 i want to hear about solutions.. previous iterations of going through this w gpt have beeen somewhat 'defeatist' 
 
