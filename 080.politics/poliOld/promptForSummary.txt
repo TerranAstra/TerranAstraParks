@@ -1,0 +1,4 @@
+
+
+are we able to write a summary document for each of the objects we've discussed?
+i'd like to ensure that 100% of the topics covered , is also covered in the new documentation

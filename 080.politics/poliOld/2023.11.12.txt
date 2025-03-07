@@ -1,0 +1,21 @@
+goals / your tasks
+
+let's revise this prompt until we get a full dictionary of terms
+
+let's begin creating the preliminary of several of our applications
+
+let's do everything we can to ensure that you read your content from a Ci/Cd pipeline that is maintained as part of the code & programs we are going to write, today 
+
+let's maximize each day .. we want each day to have schedules of 3 parts
+ - links to what we did yesterday/before
+ - a list of action items for today
+ - a place for tracking things that came across our desk today, but need to be put off until tomorrow/later
+we want to create a livingSchedule that allows myPerson to track their day(s) across "cycles" 5 days / week / 10, 14, 28, 30, 73, 90, 365.24, etc 
+
+tracking time will be realtive to myPerson
+ - we don't only* track if something is happening "at 7 pm" 
+ - - that measure is also "12 hours after myPerson got up", "3 hours or so before myPerson goes to bed", etc... 
+ - - point being - we want to track time relative to unique points of view (myPerson) and not exclusively by the naval observatory clock
+
+
+ 
