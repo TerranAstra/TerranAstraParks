@@ -1,0 +1,59 @@
+## we are going to create a static c# class, with static functions & static variables
+##  - it will connect to openAiApi - ask question(s) - get & save answers to the disk 
+## based on the knowledge at this url: https://platform.openai.com/docs/api-reference/assistants - can you help ? 
+## if possible - we'd like this as one large output
+
+## 1st - we want to read a secure .txt file, locally-stored, that contains simply the key and nothing else
+# variable for the fileName, which will be path relative to the running program, in order to keep it secure
+# variable for the filePath - this will be hand-coded by the user as 'C:\tmpSecure\openai\key.txt'
+# variable for the full path - concatenation of the filePath and the fileName
+# variable for the key - 'secureKey' - accessible in memory by other functions 
+# function to read the key from the file, and store it into the 'secureKey' variable 
+
+
+## 2nd - make connections to the generic openai system, as well as our own custom assistants
+## - will need to be able to access the 'secureKey' and use it to make the connection
+# variable for the 'connOpenAI' - accessible in memory by other functions
+
+
+# 3rd - function to verify the connection.state of connOpenAI
+# - should get ( & sometimes set) the connectionGenericOpenAI variable
+
+
+## 4th - get the available models in the generic openai system
+# variable for the array of 'availableModels' - accessible in memory by other functions, and to be passed as a parameter into the next function
+# function to get the available models
+# - should get ( & sometimes set) the availableModels variable. 
+
+
+## 5th - function to make a call into the openAi system, and return a response
+# - parameter for the model - gptModel - 'availableModels'
+# - parameter for the prompt, as 'gptPrompt'
+
+
+## 6th - simple test of the connection to our own custom assistant
+# variable for the 'connectionCustomAssistant' - accessible in memory by other functions
+# function to verify the connection to our own custom assistant
+#     - should always get ( & sometimes set) the connectionCustomAssistant variable
+
+
+## 7th - simple test of the connection to our own custom assistant, but with a question and answer
+# variable for the array of 'availableAssistants' - accessible in memory by other functions, and to be passed as a parameter into the next function
+# function to get the available assistants
+# - should get ( & sometimes set) the availableAssistants variable.
+# function to make a call into the customAssistant, and return a response
+
+
+## 8th - store answers to disk
+# function to store the answer to disk
+# - parm for the answer, as 'answer'
+# - parm for the question, as 'question'
+# - parm for the model, as 'model'
+# - - create 2 files in a relative filePath:
+# - - - .\.\ins\{Date as:YYMMDD}\{model}\{Time as:HHMMSS}Q.txt
+# - - - - 'header' info for the file will include the question, the model, and the date/time, and a link to the answer file
+# - - - - this will contain the verbiage of the question 
+# - - - .\.\outs\{Date as:YYMMDD}\{model}\{Time as:HHMMSS}A.txt
+# - - - - 'header' info for the file will include the question, the model, and the date/time, and a link to the question file
+# - - - - this will contain the verbiage of the answer
+

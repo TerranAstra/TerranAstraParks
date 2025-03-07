@@ -1,0 +1,33 @@
+#Your Task:
+For each of the object types below - we will have 
+
+frankAlpha
+frankBravo
+frankCartouche
+frankConcept
+frankConnect
+frankData
+frankDevSystem
+frankDictionary
+frankEnterprise
+frankFoundation
+frankFunctions
+frankGeeLine
+frankGUIDs
+frankLinguaFranca
+frankLogging
+frankMeetingSpace
+frankMMO
+frankModels
+frankNumbers
+frankQueenBee
+frankRaspberryPi
+frankSecrets
+frankSecurity
+frankSystem
+frankTemplate
+frankTime
+frankUserSystem
+frankVirtMac
+frankWords
+frankZeta

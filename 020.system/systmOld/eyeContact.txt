@@ -1,0 +1,16 @@
+## EyeContact
+-----
+
+# Concept 
+
+based on tobii eyeTracker; i would like to have a small 2nd computer (for instance - an ms surface) loaded w 'eye contact'
+
+when "my person" makes "eye contact" with either the whole screen - or at least a specfic part of the screen - our bot should activate
+ - - this is similar to other bots reacting to a 'wake word' .. also, we can have a wake word, just that i don't know of any that wake on eye-contact 
+
+always "listening" - it should be on a "blackbox" style recorder, with a few minutes or so of previous dialog
+ - - i want the ability to see my last few statements , and have an 'act on that' which can be effective *after* moments have been spoken
+ - - (in the current world, if your dialog took an interesting twist, you need to be able to repeat whatever it was that intrigued you)
+
+
+ 

@@ -1,0 +1,11 @@
+
+[
+  {
+    "MainPrompt": "imQueen",
+      "additionalPrompts": [
+        {
+          "slogan": "just {give them `that look`} ... they'll know'"
+        }
+      ]
+  }
+]

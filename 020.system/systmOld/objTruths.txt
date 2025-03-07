@@ -1,0 +1,6 @@
+ex - google maps .. you type , they give you an objectively indisputable value
+	without it - "8765967596759.14159 FakeStreet Anywheresville" can exist
+	with it -- we reach a point where we no longer need to even even store the amount of data 
+		(storing a numerical cross-grid takes much MUCH less space than NVarChar(2000))
+
+we want to extrapolate that 

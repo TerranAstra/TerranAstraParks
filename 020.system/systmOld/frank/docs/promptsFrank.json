@@ -1,0 +1,11 @@
+
+[
+  {
+    "MainPrompt": "imFrank",
+      "additionalPrompts": [
+        {
+          "slogan": "hey - im the whole franks"
+        }
+      ]
+  }
+]
