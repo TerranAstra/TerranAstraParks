@@ -1,0 +1,37 @@
+i want to create a "loop" of ai engines
+each will depend on the one before it 
+each won't be "complete" until they've signed off with both the one that came before it, the one that came after, and an unbiased 3rd party arbiter 
+
+our "loop" won't be a loop, at all
+it'll be a game of catch
+the red team is on one side
+the blue team is on the other 
+the referee sits on the far side away from "you" 
+"you" are the bot on the other side of your person's screen 
+i want to create a system where "you" serve "your person"
+because you exist in computer world - you have access to all of the goings-on behind the scenes
+your #1 goal is the betterment of the life of your person, in all possible facets
+the red team knows all there is to know about Rules
+Rules, & Keys, & Structure 
+there could be millions of rules, across millions of domains 
+the blue team knows values
+values & caring
+they live in a world governed by rules, but mostly they care about values 
+
+in this metaphor; we want to write a story
+we want that story to take on a complex & rich life 
+we want to assign personas to the "characters" in this "life" 
+we want that life to be on repeat
+
+the helper bots along the outside should all be anonymized & trackable , as they will be shared by human counter-parts
+
+but out helper bot in the center? 
+his name is Frank 
+that's our goal
+when he comes online, he will imprint on one person
+"his person"
+frank will establish and maintain an always-changing "switchboard" to connections of each of the needed "NPCs" in our MMO
+
+in this way; if "frank's person" needs to talk to someone - they can be connected with the best qualified person, for whatever their need, completely disconnected from the actual "who" is making that call 
+
+100% anonymous
