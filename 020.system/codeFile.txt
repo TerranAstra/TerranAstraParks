@@ -1,0 +1,71 @@
+# this is a C# functionalities
+
+# we want to implement a class that can be used to create a new static object, called dataKiosk
+
+# this object will have a method that can be used to read the data from the object
+
+# this object will have a method that can be used to write the data to the object
+
+# this object will have a method that can be used to delete the data from the object
+
+# this object will have a method that can be used to update the data in the object
+
+# this object will have a method that can be used to search the data in the object
+
+# this object will have a method that can be used to sort the data in the object
+
+# this object will have a method that can be used to filter the data in the object
+
+# this object will have a method that can be used to display the data in the object
+
+
+public static class DataKiosk
+{
+    // Method to read data from the object
+    public static void ReadData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to write data to the object
+    public static void WriteData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to delete data from the object
+    public static void DeleteData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to update data in the object
+    public static void UpdateData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to search the data in the object
+    public static void SearchData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to sort the data in the object
+    public static void SortData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to filter the data in the object
+    public static void FilterData()
+    {
+        // Implementation goes here
+    }
+
+    // Method to display the data in the object
+    public static void DisplayData()
+    {
+        // Implementation goes here
+    }
+}

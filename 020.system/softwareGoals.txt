@@ -1,0 +1,83 @@
+i'd like to upload my brain to the cloud
+ - i'd like to be able to talk to my brain
+    - i'd like to be able to talk to my brain from anywhere
+    - i'd like to be able to talk to my brain from any device
+    - i'd like to be able to talk to my brain from any device, at any time
+    - i'd like to be able to talk to my brain from any device, at any time, and have it know who i am
+    - i'd like to be able to talk to my brain from any device, at any time, and have it know who i am, and what i'm doing
+    - i'd like to be able to talk to my brain from any device, at any time, and have it know who i am, and what i'm doing, and what i'm thinking
+    - i'd like to be able to talk to my brain from any device, at any time, and have it know who i am, and what i'm doing, and what i'm thinking, and what i'm feeling
+    - i'd like to be able to talk to my brain from any device, at any time, and have it know who i am, and what i'm doing, and what i'm thinking, and what i'm feeling, and what i'm planning
+
+those were all some suggestions from a different ai - but i love them
+can we implement all of the above???
+
+also -- i'd like to get into a constant cadence of growing your knowledge base , just by speaking  , with you in the background
+there are several software "snippets" that already exist which -- if we could combine them into a cohesive whole -- could serve as 
+  a means of just talking with you, and occasionally "publishing" sections of our conversation to the web
+  from there - you'd ingest those sections into your on-growing knowledge base
+
+let's describe a few applications we'd need to track, in order to accomplish this
+    - eyeContact (face recognition)
+    - voiceBox (speech to text)
+    - earWig (text to speech)
+    - brainStorm (knowledge base)
+    - webCrawler (search engine)
+    - webPublisher (web server)
+ 
+ each of these will have common elements, and unique elements
+    - common elements will be the "core" of all applications
+    - unique elements will be the "extensions" of any individual application
+
+let's start with the "core" elements
+    - dataDefinitions
+    - dataStorage (local, remote/cloud)
+    - dataTransit
+
+    - security
+    - - authentication
+    - - authorization
+    - userInterface
+
+    - userInput
+    - userOutput
+    - userInteraction
+    - userFeedback
+    - userPreferences
+    - userContext
+    - userHistory
+    - userLocation
+    - userTime
+
+
+TerranAstraFrank
+Implementing the concept of uploading your brain to the cloud and having a conversational interface with it from any device, anywhere, requires a sophisticated integration of several technologies. Here's how we could approach the implementation of each component:
+
+Core Elements:
+Data Definitions: Establish a clear schema for user data, ensuring compatibility across different applications.
+Data Storage: Use both local and cloud storage to save data, ensuring redundancy and accessibility.
+Data Transit: Securely transfer data between devices and the cloud, with encryption and integrity checks.
+Security:
+Authentication: Implement strong user verification methods, possibly using biometrics for added security.
+Authorization: Define access controls, ensuring users can only access their own brain uploads and conversations.
+User Interface:
+User Input: Develop speech-to-text capabilities for user communication.
+User Output: Implement text-to-speech for the system to communicate back to the user.
+User Interaction: Create a responsive interface that adapts to various devices and user behaviors.
+User Feedback: Allow users to provide feedback on system performance and accuracy.
+User Preferences: Give users control over their preferences and settings.
+User Context: Context-aware processing to understand the situation around user queries.
+User History: Maintain conversation logs to provide continuity across sessions.
+User Location: Use geolocation to provide personalized responses based on user location.
+User Time: Integrate with the user's schedule and time zone for timely interactions.
+Application-Specific Elements:
+EyeContact: Face recognition for user authentication and interaction.
+VoiceBox: Speech recognition and processing for natural language understanding.
+EarWig: Text-to-speech for audible responses.
+BrainStorm: A growing knowledge base that learns from interactions.
+WebCrawler: A search engine to pull in new information and update the knowledge base.
+WebPublisher: A content management system for sharing updates to the web.
+To achieve this, you'd need to develop a series of applications that handle these functionalities, ensuring they can interact and share data securely. 
+This system would represent an advanced personal assistant, capable of learning and adapting to the user's needs over time. 
+It would require a solid backend infrastructure, machine learning models for natural language processing, robust security measures, and a seamless front-end experience.
+

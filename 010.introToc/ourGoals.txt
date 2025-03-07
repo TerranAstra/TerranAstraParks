@@ -1,0 +1,40 @@
+
+
+we want to incorporate a vast (and growing) number of goals
+
+several of these goals have inter-dependencies
+
+we want to create an app called 'eyeContact'
+ - our 'heroes' were men like stephen hawking & christopher reeve
+ - we want to create a 'virtual' eyeContact for myPerson, no matter who they are
+ - using eyeContact alone, myPerson should be able to scan the entire screen, and interact with any item on the screen
+
+we want another called the blackBox
+ - similar to the blackBox on an airplane, we want to store a 5-15 second recording of everything 
+ - - a problem we are solving can be seen w today's "smart devices" .. say their name, wait the requisite 2 seconds, then ask your question
+ - for ours - we don't want that.. in fact; if the person says their thing ~and then~ remembers to say franks's name -- that should still work fine
+ - because when frank hears his name ex-post-facto (e.g. "hey, what's the weather like, franks??") - that oughtta work just fine
+
+ we want blackBox to be always listening, but not always sending
+  - a few key contexts ougght to be have the ability to auto-send .. for instance - if the person says "call 911" - that should be sent immediately, no need for names, no need for eyeContact
+
+we want to create a virtual meetingSpace
+ - frank *is* a meeting.. a "meeting in progress".. 
+ - when you (a human being) join this meeting, your shadowOfFrank joins this meeting
+ - the meeting will be desiged to match life
+ - - there is an ongoing meeting, with or without you.. where Time meets Space (which is everywhere) is the proverbial tree falling in the lonely woods
+ - - BUT .. that spot where one single instance of myPerson is overlapped to the spot of timeMeetsSpace... that's our platinumVector, TM
+
+platinumVector:
+ - there are 8 billion people
+ - there are infinitely more places than 8bn
+ - there are an equally infinite number of timeSpaces (>8bn)
+ - - BUT - only ONE person can occupy that timeSpace
+ - - AND - each person can be in only one timeSpace
+ - - AND - each Time and each Space can be tracked independently
+ - - - space by franksKeySide
+ - - - time by franksTimeSide
+ - - it goes without saying - each person is tracked independently 
+ - - - myPerson is tracked by the gLine
+ - the resulting 3partVector is called our platinumVector
+
